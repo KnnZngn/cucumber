@@ -22,156 +22,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d13fda7e-0377-42ae-8444-60b700028212" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/configuration.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mycucumberproject.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/hooks/Hooks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pages/EtsyHomePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pages/GooglePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pages/HerOkuHomePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pages/HomePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pages/JDBC_Notes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pages/KnnPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pages/LoginPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pages/MedunnaHomePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pages/MedunnaRoomPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pages/ShoppingCartPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pages/ShoppingHomePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pages/SignUpLoginPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pages/empty.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/runners/DBRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/runners/FailedScenarioRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/runners/RegressionTestRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/runners/Runner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/runners/SmokeTestRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/runners/TestRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepdefinitions/AppLoginStepDefs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepdefinitions/AppReservationStepDefs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepdefinitions/DBStepDefs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepdefinitions/EtsyStepDefs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepdefinitions/ExcelStepDefs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepdefinitions/GoogleStepDefs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepdefinitions/HerOkuStepDefs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepdefinitions/KnnStepDefs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepdefinitions/MedunnaStepDefs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepdefinitions/ReusableStepDefs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepdefinitions/ShoppingStepDefs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/ConfigReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/DBUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/Driver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/ExcelUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/JSUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/ReusableMethods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/extent-config.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/extent.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/Medunna.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/US234503 _User_should_be_able_to_reserve_a_car.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/alert.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/day19_first_feature_file.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/day20_customer_login.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/day20_parameterizing_feature_file.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/day20_scenario_outline1.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/day21_data_tables.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/day22_excel_automation.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/day22_failed_scenario_test.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/db_features/jdbc_read.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/etsy.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/knn.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/shopping.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/testdata/mysmoketestdata.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/default_cucumber_report.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/failedRerun.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/html-reports/cucumber.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/json-reports/cucumber.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/mycucumberproject-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/2022-09-30T20-15-33_889-jvmRun1.dump" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/2022-09-30T20-15-33_889-jvmRun1.dumpstream" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/2022-09-30T20-15-33_889-jvmRun2.dump" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/2022-09-30T20-15-33_889-jvmRun2.dumpstream" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-Search Feature.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-runners.RegressionTestRunner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/extent-config.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/extent.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/features/Medunna.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/features/US234503 _User_should_be_able_to_reserve_a_car.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/features/alert.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/features/day19_first_feature_file.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/features/day20_customer_login.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/features/day20_parameterizing_feature_file.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/features/day20_scenario_outline1.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/features/day21_data_tables.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/features/day22_excel_automation.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/features/day22_failed_scenario_test.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/features/etsy.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/features/knn.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/features/shopping.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/hooks/Hooks.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/pages/EtsyHomePage.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/pages/GooglePage.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/pages/HerOkuHomePage.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/pages/HomePage.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/pages/KnnPage.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/pages/LoginPage.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/pages/MedunnaHomePage.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/pages/MedunnaRoomPage.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/pages/ShoppingCartPage.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/pages/ShoppingHomePage.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/pages/SignUpLoginPage.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/pages/empty.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/runners/FailedScenarioRunner.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/runners/RegressionTestRunner.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/runners/Runner.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/runners/SmokeTestRunner.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/runners/TestRunner.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/stepdefinitions/AppLoginStepDefs.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/stepdefinitions/AppReservationStepDefs.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/stepdefinitions/EtsyStepDefs.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/stepdefinitions/ExcelStepDefs.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/stepdefinitions/GoogleStepDefs.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/stepdefinitions/HerOkuStepDefs.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/stepdefinitions/KnnStepDefs.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/stepdefinitions/MedunnaStepDefs.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/stepdefinitions/ReusableStepDefs.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/stepdefinitions/ShoppingStepDefs.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/testdata/mysmoketestdata.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/utilities/ConfigReader.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/utilities/Driver$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/utilities/Driver.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/utilities/ExcelUtil.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/utilities/JSUtils.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/utilities/ReusableMethods$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/utilities/ReusableMethods$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/utilities/ReusableMethods.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/xml-report/cucumber.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/xml-reports/cucumber.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/PdfReport/ExtentPdf.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/Screenshots/ScreenShot20220930033758.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/Screenshots/ScreenShot20220930055109.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/Screenshots/ScreenShot20220930055718.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/Screenshots/customer1@bluerentalcars.com20220930055639.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/Screenshots/customer2@bluerentalcars.com20220930055658.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/Screenshots/customer3@bluerentalcars.com20220930055717.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/Screenshots/customer@bluerentalcars.com20220930055619.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/Screenshots/hadiulan20220930032823.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/Screenshots/hadiulan20220930033551.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/Screenshots/hadiulan20220930055755.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/Screenshots/hadiulan20220930060746.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/Screenshots/hadiulan20220930081903.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/SparkReport/Spark.html" afterDir="false" />
+    <list default="true" id="d13fda7e-0377-42ae-8444-60b700028212" name="Default Changelist" comment="10 10 22">
+      <changelist_data name="ASUS" email="k.zezgn@gmail.com" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/runners/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/runners/Runner.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -191,6 +45,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="ASUS &lt;k.zezgn@gmail.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="JQLSearcherProjectManager">
@@ -222,17 +81,17 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/ASUS/IdeaProjects/cucumber/src/test/java/stepdefinitions&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/ASUS/IdeaProjects/cucumber/src/test/java/stepdefinitions",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\ASUS\IdeaProjects\cucumber\src\test\java\stepdefinitions" />
@@ -360,6 +219,21 @@
       <option name="presentableId" value="Default" />
       <updated>1663440163023</updated>
     </task>
+    <task id="LOCAL-00001" summary="10 10 22">
+      <created>1665434345091</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1665434345091</updated>
+    </task>
+    <task id="LOCAL-00002" summary="10 10 22">
+      <created>1665434359633</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1665434359633</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -372,6 +246,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="10 10 22" />
+    <option name="LAST_COMMIT_MESSAGE" value="10 10 22" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
